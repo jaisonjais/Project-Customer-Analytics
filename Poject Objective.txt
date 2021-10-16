@@ -1,0 +1,8 @@
+The objective of the analysis is to Predict if the shipments are or will reach on time or not for an International E-Commerce company.
+No. of columns: 12
+No. of rows: 10999
+Colum with Unique Values: ID [contains ID no. of customer]
+Missing Values: Null
+Na Values: Null
+X_variables: Warehouse_block, Mode_of_Shipment, Customer_care_calls, Customer_rating, Cost_of_the_Product, Prior_purchases,                  Product_importance, Gender,Discount_offered, Weight_in_gms
+Y_variable: Reached.on.Time_Y.N
